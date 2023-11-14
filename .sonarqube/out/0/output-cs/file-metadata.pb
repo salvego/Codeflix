@@ -1,0 +1,16 @@
+_
+VD:\dev\FullCycle\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Domain\Entity\Category.csutf-8t
+kD:\dev\FullCycle\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Domain\Exceptions\EntityValidationException.csutf-8n
+eD:\dev\FullCycle\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Domain\Repository\ICategoryRepository.csutf-8f
+]D:\dev\FullCycle\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Domain\SeedWork\AggregateRoot.csutf-8_
+VD:\dev\FullCycle\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Domain\SeedWork\Entity.csutf-8k
+bD:\dev\FullCycle\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Domain\SeedWork\IGenericRepository.csutf-8d
+[D:\dev\FullCycle\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Domain\SeedWork\IRepository.csutf-8É
+zD:\dev\FullCycle\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Domain\SeedWork\SearchableRepository\ISearchableRepository.csutf-8y
+pD:\dev\FullCycle\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Domain\SeedWork\SearchableRepository\SearchInput.csutf-8y
+pD:\dev\FullCycle\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Domain\SeedWork\SearchableRepository\SearchOrder.csutf-8z
+qD:\dev\FullCycle\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Domain\SeedWork\SearchableRepository\SearchOutput.csutf-8k
+bD:\dev\FullCycle\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Domain\Validation\DomainValidation.csutf-8ç
+ÅD:\dev\FullCycle\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Domain\obj\Debug\net6.0\FC.Codeflix.Catalog.Domain.GlobalUsings.g.csutf-8è
+ÉD:\dev\FullCycle\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Domain\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.csutf-8ä
+D:\dev\FullCycle\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Domain\obj\Debug\net6.0\FC.Codeflix.Catalog.Domain.AssemblyInfo.csutf-8

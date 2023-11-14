@@ -1,0 +1,296 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "4.7.0.0",
+        "fileVersion": "4.7.0-3.23416.9 (43b0b05c)",
+        "semanticVersion": "4.7.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "CS8604",
+          "level": "warning",
+          "message": "Possible null reference argument for parameter 'name' in 'Category.Category(string name, string description, bool isActive = true)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/dev/FullCycle/FC.Codeflix.Catalog/tests/FC.Codeflix.Catalog.UnitTests/Domain/Entity/Category/CategoryTest.cs",
+                "region": {
+                  "startLine": 64,
+                  "startColumn": 51,
+                  "endLine": 64,
+                  "endColumn": 55
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8604",
+          "level": "warning",
+          "message": "Possible null reference argument for parameter 'name' in 'Category.Category(string name, string description, bool isActive = true)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/dev/FullCycle/FC.Codeflix.Catalog/tests/FC.Codeflix.Catalog.UnitTests/Domain/Entity/Category/CategoryTest.cs",
+                "region": {
+                  "startLine": 79,
+                  "startColumn": 51,
+                  "endLine": 79,
+                  "endColumn": 55
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8604",
+          "level": "warning",
+          "message": "Possible null reference argument for parameter 'name' in 'void Category.Update(string name, string? description = null)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/dev/FullCycle/FC.Codeflix.Catalog/tests/FC.Codeflix.Catalog.UnitTests/Domain/Entity/Category/CategoryTest.cs",
+                "region": {
+                  "startLine": 203,
+                  "startColumn": 39,
+                  "endLine": 203,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8604",
+          "level": "warning",
+          "message": "Possible null reference argument for parameter 'name' in 'void Category.Update(string name, string? description = null)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/dev/FullCycle/FC.Codeflix.Catalog/tests/FC.Codeflix.Catalog.UnitTests/Domain/Entity/Category/CategoryTest.cs",
+                "region": {
+                  "startLine": 222,
+                  "startColumn": 39,
+                  "endLine": 222,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1822",
+          "level": "note",
+          "message": "Member 'GetRandomBoolean' does not access instance data and can be marked as static",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/dev/FullCycle/FC.Codeflix.Catalog/tests/FC.Codeflix.Catalog.UnitTests/Common/BaseFixture.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 17,
+                  "endLine": 12,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1822",
+          "level": "note",
+          "message": "Member 'GetRepositoryMock' does not access instance data and can be marked as static",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/dev/FullCycle/FC.Codeflix.Catalog/tests/FC.Codeflix.Catalog.UnitTests/Application/Category/Common/CategoryUseCasesBaseFixture.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 38,
+                  "endLine": 13,
+                  "endColumn": 55
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1822",
+          "level": "note",
+          "message": "Member 'GetUnitOfWorkMock' does not access instance data and can be marked as static",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/dev/FullCycle/FC.Codeflix.Catalog/tests/FC.Codeflix.Catalog.UnitTests/Application/Category/Common/CategoryUseCasesBaseFixture.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 30,
+                  "endLine": 16,
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1806",
+          "level": "note",
+          "message": "Validar_Categoria_DeveCriarComNomeDiferenteDeVazioOuNulo creates a new instance of Category which is never used. Pass the instance as an argument to another method, assign the instance to a variable, or remove the object creation if it is unnecessary.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/dev/FullCycle/FC.Codeflix.Catalog/tests/FC.Codeflix.Catalog.UnitTests/Domain/Entity/Category/CategoryTest.cs",
+                "region": {
+                  "startLine": 64,
+                  "startColumn": 23,
+                  "endLine": 64,
+                  "endColumn": 83
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1806",
+          "level": "note",
+          "message": "Validar_Categoria_DeveCriarComNomeMenorOuIgual255Caracteres creates a new instance of Category which is never used. Pass the instance as an argument to another method, assign the instance to a variable, or remove the object creation if it is unnecessary.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/dev/FullCycle/FC.Codeflix.Catalog/tests/FC.Codeflix.Catalog.UnitTests/Domain/Entity/Category/CategoryTest.cs",
+                "region": {
+                  "startLine": 108,
+                  "startColumn": 23,
+                  "endLine": 108,
+                  "endColumn": 90
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1806",
+          "level": "note",
+          "message": "Validar_Categoria_DeveCriarComDescricaoMenorOuIgual10000Caracteres creates a new instance of Category which is never used. Pass the instance as an argument to another method, assign the instance to a variable, or remove the object creation if it is unnecessary.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/dev/FullCycle/FC.Codeflix.Catalog/tests/FC.Codeflix.Catalog.UnitTests/Domain/Entity/Category/CategoryTest.cs",
+                "region": {
+                  "startLine": 131,
+                  "startColumn": 23,
+                  "endLine": 131,
+                  "endColumn": 90
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1806",
+          "level": "note",
+          "message": "Validar_Categoria_DeveCriarComNomeDeNoMinimo3Caracteres creates a new instance of Category which is never used. Pass the instance as an argument to another method, assign the instance to a variable, or remove the object creation if it is unnecessary.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/dev/FullCycle/FC.Codeflix.Catalog/tests/FC.Codeflix.Catalog.UnitTests/Domain/Entity/Category/CategoryTest.cs",
+                "region": {
+                  "startLine": 79,
+                  "startColumn": 23,
+                  "endLine": 79,
+                  "endColumn": 83
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "CA1806": {
+          "id": "CA1806",
+          "shortDescription": "Do not ignore method results",
+          "fullDescription": "A new object is created but never used; or a method that creates and returns a new string is called and the new string is never used; or a COM or P/Invoke method returns an HRESULT or error code that is never used.",
+          "defaultLevel": "note",
+          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1806",
+          "properties": {
+            "category": "Performance",
+            "isEnabledByDefault": true,
+            "tags": [
+              "PortedFromFxCop",
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        },
+        "CA1822": {
+          "id": "CA1822",
+          "shortDescription": "Mark members as static",
+          "fullDescription": "Members that do not access instance data or call instance methods can be marked as static. After you mark the methods as static, the compiler will emit nonvirtual call sites to these members. This can give you a measurable performance gain for performance-sensitive code.",
+          "defaultLevel": "note",
+          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1822",
+          "properties": {
+            "category": "Performance",
+            "isEnabledByDefault": true,
+            "tags": [
+              "PortedFromFxCop",
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        },
+        "CS8604": {
+          "id": "CS8604",
+          "shortDescription": "Possible null reference argument.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8604)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

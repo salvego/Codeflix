@@ -1,0 +1,12 @@
+﻿D:\dev\FullCycle\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Domain\Entity\Category.cs
+D:\dev\FullCycle\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Domain\Exceptions\EntityValidationException.cs
+D:\dev\FullCycle\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Domain\Repository\ICategoryRepository.cs
+D:\dev\FullCycle\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Domain\SeedWork\AggregateRoot.cs
+D:\dev\FullCycle\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Domain\SeedWork\Entity.cs
+D:\dev\FullCycle\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Domain\SeedWork\IGenericRepository.cs
+D:\dev\FullCycle\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Domain\SeedWork\IRepository.cs
+D:\dev\FullCycle\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Domain\SeedWork\SearchableRepository\ISearchableRepository.cs
+D:\dev\FullCycle\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Domain\SeedWork\SearchableRepository\SearchInput.cs
+D:\dev\FullCycle\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Domain\SeedWork\SearchableRepository\SearchOrder.cs
+D:\dev\FullCycle\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Domain\SeedWork\SearchableRepository\SearchOutput.cs
+D:\dev\FullCycle\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Domain\Validation\DomainValidation.cs

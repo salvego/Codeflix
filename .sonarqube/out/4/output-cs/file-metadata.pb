@@ -1,0 +1,9 @@
+l
+cD:\dev\FullCycle\FC.Codeflix.Catalog\tests\FC.Codeflix.Catalog.IntegrationTests\Base\BaseFixture.csutf-8h
+_D:\dev\FullCycle\FC.Codeflix.Catalog\tests\FC.Codeflix.Catalog.IntegrationTests\GlobalUsings.csutf-8°
+óD:\dev\FullCycle\FC.Codeflix.Catalog\tests\FC.Codeflix.Catalog.IntegrationTests\Infra.Data.EF\Repositories\CategoryRepository\CategoryRepositoryTest.csutf-8®
+ûD:\dev\FullCycle\FC.Codeflix.Catalog\tests\FC.Codeflix.Catalog.IntegrationTests\Infra.Data.EF\Repositories\CategoryRepository\CategoryRepositoryTestFixture.csutf-8
+tC:\Users\Kaelzin\.nuget\packages\microsoft.net.test.sdk\17.5.0\build\netcoreapp3.1\Microsoft.NET.Test.Sdk.Program.csutf-8£
+óD:\dev\FullCycle\FC.Codeflix.Catalog\tests\FC.Codeflix.Catalog.IntegrationTests\obj\Debug\net6.0\FC.Codeflix.Catalog.IntegrationTests.GlobalUsings.g.csutf-8õ
+èD:\dev\FullCycle\FC.Codeflix.Catalog\tests\FC.Codeflix.Catalog.IntegrationTests\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.csutf-8°
+ïD:\dev\FullCycle\FC.Codeflix.Catalog\tests\FC.Codeflix.Catalog.IntegrationTests\obj\Debug\net6.0\FC.Codeflix.Catalog.IntegrationTests.AssemblyInfo.csutf-8

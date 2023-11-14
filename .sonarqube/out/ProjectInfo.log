@@ -1,0 +1,28 @@
+Product projects
+---------------------------------------
+D:\dev\FullCycle\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Domain\FC.Codeflix.Catalog.Domain.csproj
+D:\dev\FullCycle\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Application\FC.Codeflix.Catalog.Application.csproj
+D:\dev\FullCycle\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Infra.Data.EF\FC.Codeflix.Catalog.Infra.Data.EF.csproj
+
+
+Test projects
+---------------------------------------
+D:\dev\FullCycle\FC.Codeflix.Catalog\tests\FC.Codeflix.Catalog.UnitTests\FC.Codeflix.Catalog.UnitTests.csproj
+D:\dev\FullCycle\FC.Codeflix.Catalog\tests\FC.Codeflix.Catalog.IntegrationTests\FC.Codeflix.Catalog.IntegrationTests.csproj
+
+
+Invalid projects
+---------------------------------------
+{none}
+
+
+Skipped projects
+---------------------------------------
+{none}
+
+
+Excluded projects
+---------------------------------------
+{none}
+
+

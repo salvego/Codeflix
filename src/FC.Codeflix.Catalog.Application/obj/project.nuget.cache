@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "64qttOYZ1uA+hU2n6b/7XSQ1cwff5D65D2IhlYHEXec7eIhMSyGcR3aj0Fm3rA8AVh4vvUeaxctHbTpucUQDmQ==",
+  "success": true,
+  "projectFilePath": "D:\\dev\\FullCycle\\FC.Codeflix.Catalog\\src\\FC.Codeflix.Catalog.Application\\FC.Codeflix.Catalog.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kaelzin\\.nuget\\packages\\fluentvalidation\\11.8.0\\fluentvalidation.11.8.0.nupkg.sha512",
+    "C:\\Users\\Kaelzin\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\Kaelzin\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Kaelzin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+D:\dev\FullCycle\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Infra.Data.EF\bin\Debug\net6.0\FC.Codeflix.Catalog.Infra.Data.EF.deps.json
+D:\dev\FullCycle\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Infra.Data.EF\bin\Debug\net6.0\FC.Codeflix.Catalog.Infra.Data.EF.dll
+D:\dev\FullCycle\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Infra.Data.EF\bin\Debug\net6.0\FC.Codeflix.Catalog.Infra.Data.EF.pdb
+D:\dev\FullCycle\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Infra.Data.EF\bin\Debug\net6.0\FC.Codeflix.Catalog.Application.dll
+D:\dev\FullCycle\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Infra.Data.EF\bin\Debug\net6.0\FC.Codeflix.Catalog.Domain.dll
+D:\dev\FullCycle\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Infra.Data.EF\bin\Debug\net6.0\FC.Codeflix.Catalog.Application.pdb
+D:\dev\FullCycle\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Infra.Data.EF\bin\Debug\net6.0\FC.Codeflix.Catalog.Domain.pdb
+D:\dev\FullCycle\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Infra.Data.EF\obj\Debug\net6.0\FC.Codeflix.Catalog.Infra.Data.EF.csproj.AssemblyReference.cache
+D:\dev\FullCycle\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Infra.Data.EF\obj\Debug\net6.0\FC.Codeflix.Catalog.Infra.Data.EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\FullCycle\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Infra.Data.EF\obj\Debug\net6.0\FC.Codeflix.Catalog.Infra.Data.EF.AssemblyInfoInputs.cache
+D:\dev\FullCycle\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Infra.Data.EF\obj\Debug\net6.0\FC.Codeflix.Catalog.Infra.Data.EF.AssemblyInfo.cs
+D:\dev\FullCycle\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Infra.Data.EF\obj\Debug\net6.0\FC.Codeflix.Catalog.Infra.Data.EF.csproj.CoreCompileInputs.cache
+D:\dev\FullCycle\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Infra.Data.EF\obj\Debug\net6.0\FC.Codeflix.Catalog.Infra.Data.EF.csproj.CopyComplete
+D:\dev\FullCycle\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Infra.Data.EF\obj\Debug\net6.0\FC.Codeflix.Catalog.Infra.Data.EF.dll
+D:\dev\FullCycle\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Infra.Data.EF\obj\Debug\net6.0\refint\FC.Codeflix.Catalog.Infra.Data.EF.dll
+D:\dev\FullCycle\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Infra.Data.EF\obj\Debug\net6.0\FC.Codeflix.Catalog.Infra.Data.EF.pdb
+D:\dev\FullCycle\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Infra.Data.EF\obj\Debug\net6.0\ref\FC.Codeflix.Catalog.Infra.Data.EF.dll
